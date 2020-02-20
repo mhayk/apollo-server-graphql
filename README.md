@@ -1,6 +1,6 @@
-## Apollo Server + GraphQL
+## Apollo Server + GraphQL + MongoDB
 ```
-$ yarn add apollo-server graphql
+$ yarn add apollo-server graphql mongoose
 $ yarn add nodemon sucrase -D
 $ yarn add dotenv
 ```
